@@ -1,0 +1,8 @@
+What happens when you initialize a repository?  Why do you need to do it?
+
+A hidden file is created that tracks the directory.  We initialize it to tell git to track the repository.
+
+
+How is the staging area different from the working directory and the repository?  What value do you think it offers?
+
+The staging area is a temporary area that allows you to set up the files you want to track in the repository.
