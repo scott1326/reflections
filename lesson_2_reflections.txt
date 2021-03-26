@@ -16,3 +16,8 @@ You can run a diff between the staging area and the latest commit.
 What are some situations when branches would be helpful in keeping your history organized?  How would branches help?
 
 Different localizations, testing new features, demo modes, etc.
+
+
+How do the diagrams help you visualize the branch structure?
+
+They let you know what commits belong to what branches and which branch you are on.
