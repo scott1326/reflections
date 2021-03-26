@@ -21,3 +21,9 @@ Different localizations, testing new features, demo modes, etc.
 How do the diagrams help you visualize the branch structure?
 
 They let you know what commits belong to what branches and which branch you are on.
+
+
+
+What is the result of merging two branches together?  Why do we represent it in the diagram the way we do?
+
+One commit with all of the changes of both branches.  We represent it so that we can tell more easily how we have changed it.
