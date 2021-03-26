@@ -27,3 +27,8 @@ They let you know what commits belong to what branches and which branch you are 
 What is the result of merging two branches together?  Why do we represent it in the diagram the way we do?
 
 One commit with all of the changes of both branches.  We represent it so that we can tell more easily how we have changed it.
+
+
+What are the pros and cons of Git's automatic merging vs. always doing merges manually?
+
+Automatic merging can be faster in many cases, though it might not know how to deal with conflicts as easily.
